@@ -1,8 +1,7 @@
 ## Information
 
 Name: Noah Hinderle
-Email: nhinderl@uoguelph.ca
-Student ID: 1053077
+Email: noah.hinderle@gmail.com
 
 ## About Program
 
